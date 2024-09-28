@@ -1,4 +1,4 @@
-/*
+
 Atividades para trabalhar com o Oscar
 
 1  - Quantas vezes Natalie Portman foi indicada ao Oscar?
@@ -130,4 +130,3 @@ db.registros.find({ nome_do_filme: "Central Station" })
   nome_do_indicado: 'Adrien Brody',
   nome_do_filme: 'The Pianist'
   }
-*/
